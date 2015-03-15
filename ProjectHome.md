@@ -1,0 +1,1 @@
+used to explain how it works in collaboration with the SVN client Tortoise
